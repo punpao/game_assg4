@@ -71,5 +71,5 @@
   Your browser does not support the video tag.
 </video>
 
-[Demo Video](demo.mp4)
+[demo.mp4](https://punpao.github.io/game_assg4/demo.mp4)
 
