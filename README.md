@@ -31,3 +31,5 @@
 | ESC | Quit game |
 
 ---
+
+[Demo Video](demo.mp4)
